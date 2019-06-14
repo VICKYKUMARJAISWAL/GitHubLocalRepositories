@@ -1,0 +1,5 @@
+#Different directory naming convention for eclipse .
+https://github.com/apache/maven/blob/trunk/maven-model-builder/src/main/resources/org/apache/maven/model/pom-4.0.0.xml#L53
+
+#How to add local jar files to a Maven project?
+https://stackoverflow.com/questions/4955635/how-to-add-local-jar-files-to-a-maven-project
