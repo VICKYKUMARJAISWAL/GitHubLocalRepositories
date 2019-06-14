@@ -3,3 +3,6 @@ https://github.com/apache/maven/blob/trunk/maven-model-builder/src/main/resource
 
 #How to add local jar files to a Maven project?
 https://stackoverflow.com/questions/4955635/how-to-add-local-jar-files-to-a-maven-project
+
+#To add local jar file to maven 
+http://roufid.com/3-ways-to-add-local-jar-to-maven-project/
